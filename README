@@ -1,5 +1,25 @@
+Copyright (C) 2008 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+  
+     http://www.apache.org/licenses/LICENSE-2.0
+  
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+##########
+
 The Goal of this project is to provide support for georgian glyphs by
 AOSP(Android) Droid ttf fonts.
 
-droid_fonts folder contains AOSP ttf fonts from the android git repository, revision bdb7aee0a4934eb138f7caaf921f6c86f350b4b7
-geo_droid folder contains AOSP ttf fonts with georgian glyphs from DeJaVu project. These glyps are under public domain by DeJaVu project.
+droid_fonts folder contains AOSP ttf fonts from the android git
+repository, revision bdb7aee0a4934eb138f7caaf921f6c86f350b4b7
+geo_droid folder contains AOSP ttf fonts with georgian glyphs from
+DeJaVu project. These glyps are under public domain by DeJaVu project.
+The contents of these folder under Apache 2.0 Licence
+
