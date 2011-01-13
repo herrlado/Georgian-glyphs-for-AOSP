@@ -1,0 +1,5 @@
+The Goal of this project is to provide support for georgian glyphs by
+AOSP(Android) Droid ttf fonts.
+
+droid_fonts folder contains AOSP ttf fonts from the android git repository, revision bdb7aee0a4934eb138f7caaf921f6c86f350b4b7
+geo_droid folder contains AOSP ttf fonts with georgian glyphs from DeJaVu project. These glyps are under public domain by DeJaVu project.
